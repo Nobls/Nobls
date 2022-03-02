@@ -1,6 +1,8 @@
 ## Hi there :wave:, my name is Sergei 
 I am React Frontend Developer
 
+ <p align="left"><img src="https://99px.ru/sstorage/86/2016/12/image_860912160050307714064.gif" width="100" height="100" alt="kitten with paws"/></p>
+
 ### Skills:
 
 <div align="left">
