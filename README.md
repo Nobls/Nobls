@@ -1,7 +1,7 @@
 ## Hi there :wave:, my name is Sergei 
 I am React Frontend Developer
 
- <p align="left"><img src="https://64.media.tumblr.com/cdf46a0929716124b0c2f629c64f3a01/f108c562d2af8aed-ec/s400x600/c7c0c626f79360e40ae737b702c42a913afca01a.gifv" height="100" alt="kitten with paws"/></p>
+ <p align="left"><img src="https://64.media.tumblr.com/cdf46a0929716124b0c2f629c64f3a01/f108c562d2af8aed-ec/s400x600/c7c0c626f79360e40ae737b702c42a913afca01a.gif" height="100" alt="kitten with paws"/></p>
 
 ### Skills:
 
